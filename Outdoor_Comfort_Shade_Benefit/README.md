@@ -5,7 +5,6 @@ The file takes as its starting point the idea of designing a shade for a bus she
 This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Outdoor_Comfort_Shade_Benefit)
-### Version 0.0.60
 ### Tags 
 Outdoor, Comfort, Shade, Benefit
 ### Thumbnail 
