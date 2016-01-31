@@ -8,6 +8,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Urban_Weather_Generator_Workflow)
 ### Tags 
-DFExampleFiles, Dragonfly, Urban, Weather, Generator, EPW, Climate, Heat, Island, Effect, Workflow, MIT, Urban Microclimate
+DFExampleFiles, Dragonfly, Urban, Weather, Generator, EPW, Climate, Heat, Island, Effect, Workflow, MIT, Urban Microclimate, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Urban_Weather_Generator_Workflow/thumbnail.png)
