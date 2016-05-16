@@ -1,7 +1,7 @@
 ### Description 
 This file shows you how to build one of the simplest possible microclimate maps with Honeybee.
 If you are looking to just get started with thermal maps in Honeybee, this file is the right place.
-The energy model is built with Honeybee components and the microclimate map is constructed from the results of EnergyPlus.
+The energy model is built with Honeybee components and the microclimate map is constructed from the results of the EnergyPlus simulation.
 The maps were built as a part of Chris Mackey's Thesis.  Full documentation on this thesis can be found here:
 https://www.dropbox.com/s/k4r4rd279y4td9n/Mackey_Thesis.pdf?dl=0
 
