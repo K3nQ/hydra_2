@@ -5,6 +5,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Accounting_for_Solar_Radiation_in_Comfort)
 ### Tags 
-LBExampleFiles, Solar, Radiation, Temperature, MRT, Adjust, Comfort, Sun, Thermal
+LBExampleFiles, Solar, Radiation, Temperature, MRT, Adjust, Comfort, Sun, Thermal, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Accounting_for_Solar_Radiation_in_Comfort/thumbnail.png)
