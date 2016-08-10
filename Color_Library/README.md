@@ -6,6 +6,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Color_Library)
 ### Tags 
-LBExampleFiles, Ladybug, EPW, Weather, Climate, Color, Gradient, Library
+LBExampleFiles, Ladybug, EPW, Weather, Climate, Color, Gradient, Library, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Color_Library/thumbnail.png)
