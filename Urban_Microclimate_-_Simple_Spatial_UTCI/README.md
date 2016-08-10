@@ -9,6 +9,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Urban_Microclimate_-_Simple_Spatial_UTCI)
 ### Tags 
-LBExampleFiles, Solar, Radiation, Temperature, MRT, Adjust, Comfort, Sun, Thermal, UTCI, Spatial, Urban, Outdoor, Shade
+LBExampleFiles, Solar, Radiation, Temperature, MRT, Adjust, Comfort, Sun, Thermal, UTCI, Spatial, Urban, Outdoor, Shade, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Urban_Microclimate_-_Simple_Spatial_UTCI/thumbnail.png)
