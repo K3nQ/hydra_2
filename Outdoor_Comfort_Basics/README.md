@@ -7,6 +7,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Outdoor_Comfort_Basics)
 ### Tags 
-LBExampleFiles, Ladybug, EPW, Weather, Climate, Outdoor, Comfort, Temperature, UTCI, Universal, Thermal, Climate, Index
+LBExampleFiles, Ladybug, EPW, Weather, Climate, Outdoor, Comfort, Temperature, UTCI, Universal, Thermal, Climate, Index, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Outdoor_Comfort_Basics/thumbnail.png)
