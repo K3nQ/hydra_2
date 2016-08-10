@@ -6,6 +6,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Getting_Started_With_Ladybug)
 ### Tags 
-LBExampleFiles, Ladybug, Introduction, Intro, Start, EPW, Weather, Climate, Data
+LBExampleFiles, Ladybug, Introduction, Intro, Start, EPW, Weather, Climate, Data, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Getting_Started_With_Ladybug/thumbnail.png)
