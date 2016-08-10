@@ -7,6 +7,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Radiation_in_an_Urban_Canyon)
 ### Tags 
-LBExampleFiles, Ladybug, EPW, Weather, Climate, Sky, Radiation, Microclimate, Spatial, Resolution, Street, Trees, Canyon
+LBExampleFiles, Ladybug, EPW, Weather, Climate, Sky, Radiation, Microclimate, Spatial, Resolution, Street, Trees, Canyon, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Radiation_in_an_Urban_Canyon/thumbnail.png)
