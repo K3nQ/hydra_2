@@ -8,6 +8,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Sky_View_in_an_Urban_Canyon)
 ### Tags 
-LBExampleFiles, Ladybug, EPW, Weather, Climate, Sky, View, Microclimate, Spatial, Resolution, Urban, Heat, Island, Canyon
+LBExampleFiles, Ladybug, EPW, Weather, Climate, Sky, View, Microclimate, Spatial, Resolution, Urban, Heat, Island, Canyon, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Sky_View_in_an_Urban_Canyon/thumbnail.png)
