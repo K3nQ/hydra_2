@@ -6,6 +6,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Wind_Vertical_Profile)
 ### Tags 
-LBExampleFiles, Ladybug, EPW, Weather, Climate, Wind, Profile, Height, Speed
+LBExampleFiles, Ladybug, EPW, Weather, Climate, Wind, Profile, Height, Speed, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Wind_Vertical_Profile/thumbnail.png)
