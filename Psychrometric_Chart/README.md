@@ -8,6 +8,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Psychrometric_Chart)
 ### Tags 
-LBExampleFiles, Ladybug, EPW, Weather, Climate, Comfort, PMV, Predicted, Mean, Vote, Fanger, Psychrometric, Chart, Humidity
+LBExampleFiles, Ladybug, EPW, Weather, Climate, Comfort, PMV, Predicted, Mean, Vote, Fanger, Psychrometric, Chart, Humidity, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Psychrometric_Chart/thumbnail.png)
