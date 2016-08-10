@@ -6,6 +6,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=View_to_the_Outdoors_Through_a_Facade)
 ### Tags 
-LBExampleFiles, Ladybug, EPW, Weather, Climate, View, Views, Visibility, Analysis, Study, Outdoors, Facade, Design, Geometry
+LBExampleFiles, Ladybug, EPW, Weather, Climate, View, Views, Visibility, Analysis, Study, Outdoors, Facade, Design, Geometry, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/View_to_the_Outdoors_Through_a_Facade/thumbnail.png)
