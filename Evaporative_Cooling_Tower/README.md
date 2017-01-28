@@ -6,6 +6,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Evaporative_Cooling_Tower)
 ### Tags 
-HBExampleFiles, Honyebee, EPW, Weather, Climate, Energy, Simulation, Model, Evaporative, Cooling, Downdraft, Wind, Tower, Custom, Object, additionalStrings
+HBExampleFiles, Honyebee, EPW, Weather, Climate, Energy, Simulation, Model, Evaporative, Cooling, Downdraft, Wind, Tower, Custom, Object, additionalStrings, Results, .rdd, Result, Data, Dictionary
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Evaporative_Cooling_Tower/thumbnail.png)
