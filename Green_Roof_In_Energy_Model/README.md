@@ -6,6 +6,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Green_Roof_In_Energy_Model)
 ### Tags 
-HBExampleFiles, Honyebee, EPW, Weather, Climate, Energy, Simulation, Model, EnergyPlus, Green Roof, Green, Vegetation, Plants
+HBExampleFiles, Honyebee, EPW, Weather, Climate, Energy, Simulation, Model, EnergyPlus, Green Roof, Green, Vegetation, Plants, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Green_Roof_In_Energy_Model/thumbnail.png)
