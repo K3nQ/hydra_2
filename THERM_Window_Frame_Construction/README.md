@@ -1,5 +1,7 @@
 ### Description 
-This file shows you how to create a basic aluminum frame window construction for THERM.  The file builds the window construction from the base materials and shows how to use the boundary condition component to add Low-E coatings if desired.  This file complements the workflow that builds a window frame construction from an import from LBNL WINDOW, which can be found [here](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Import_Glazing_System_from_LBNL_WINDOW).
+This file shows how to create an aluminum frame window construction for THERM by importing a glazing system from WIDNOW and building frame geometry around it.
+The THERM results are used to calculate an assembly U-value.
+An option for a wooden frame is included in the grasshopper file for comparison.
 To use this file, you wil need to download and install THERM [here](https://windows.lbl.gov/software/therm/7/index_7_4_3.html)
  Also, it is recommended that you familiarize yourself with the basics of the THERM export workflow using [this example file](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=THERM_Export_Workflow).
 
