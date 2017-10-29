@@ -1,6 +1,6 @@
 ### Description 
 This file shows you a comparison of a wood stud wall with a steel stud wall to reveal large differences in wall R-Value as a result of thermal bridging.  The conductive nature of steel makes the corresponding construction much more thermally bridged with almost half the R-Value of the wood stud wall. The file models the thermal bridging with LBNL THERM.
-To use this file, you wil need to download and install the latest version of THERM [here](https://windows.lbl.gov/software/therm/7/index_7_4_3.html)
+To use this file, you wil need to download and install the latest version of [THERM](https://windows.lbl.gov/software/therm)
 It is also recommended that you view the introductory [Export to THERM](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=THERM_Export_Workflow&slide=0&scale=1&offset=0,0) file before attempting to use this file.
 
 This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
