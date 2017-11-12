@@ -7,6 +7,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Parametric_THERM_Model)
 ### Tags 
-HBExampleFiles, Honyebee, THERM, Insulation, Thickness, Thermal, Bridges, Bridging, Paramteric, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Grasshopper
+HBExampleFiles, Honyebee, THERM, ThermFundementals, Insulation, Thickness, Thermal, Bridges, Bridging, Paramteric, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Parametric_THERM_Model/thumbnail.png)

@@ -12,6 +12,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Import_THERM_Model)
 ### Tags 
-HBExampleFiles, Honyebee, THERM, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Energy, Glazing, Thermal, Bridging, Bridge, Wall, Construction, Conduction, Condensation, Import, XML, Grasshopper
+HBExampleFiles, Honyebee, THERM, ThermFundementals, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Energy, Glazing, Thermal, Bridging, Bridge, Wall, Construction, Conduction, Condensation, Import, XML, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Import_THERM_Model/thumbnail.png)

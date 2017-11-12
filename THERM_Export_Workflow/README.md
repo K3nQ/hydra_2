@@ -10,6 +10,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=THERM_Export_Workflow)
 ### Tags 
-HBExampleFiles, Honyebee, THERM, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Energy, Glazing, Grasshopper
+HBExampleFiles, Honyebee, THERM, ThermFundementals, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Energy, Glazing, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/THERM_Export_Workflow/thumbnail.png)

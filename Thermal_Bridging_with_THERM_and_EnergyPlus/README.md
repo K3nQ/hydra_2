@@ -7,6 +7,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Thermal_Bridging_with_THERM_and_EnergyPlus)
 ### Tags 
-HBExampleFiles, Honyebee, THERM, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Energy, Glazing, EnergyPlus, Thermal, Bridging, Bridge, Wall, Construction, Conduction, OpenStudio, Grasshopper
+HBExampleFiles, Honyebee, THERM, ThermFundementals, Export, Geometry, Polygon, Boundary, Condition, Finite, Element, Heat, Transfer, Conduction, LBNL, Steady State, U-Value, R-Value, Energy, Glazing, EnergyPlus, Thermal, Bridging, Bridge, Wall, Construction, Conduction, OpenStudio, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Thermal_Bridging_with_THERM_and_EnergyPlus/thumbnail.png)
