@@ -3,7 +3,7 @@ This tool displays the impact of glazing geometry and U-value on occupant therma
 
 More specifically, it quantifies thermal discomfort from both overall mean radiant heat loss to the cold glass as well as cold downdraft from the glass, which can cause local discomfort.
 
-Notably, this file uses the surface temperature results of an energy simulation to account for transient phenomena like thermal mass or the use of a radiant slab heating system.
+This file uses the surface temperature results of a design day energy simulation to account for transient phenomena like thermal mass or the use of a radiant slab heating system.
 
 This file is a Grasshopper version of a web tool of the same name that has been produced by Payette Architects and can be accessed [here](http://www.payette.com/building-science/glazing-and-winter-comfort-tool/).
 
