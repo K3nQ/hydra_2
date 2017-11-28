@@ -7,6 +7,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Maximizing_View_While_Minimizing_Sun_Exposure)
 ### Tags 
-LBExampleFiles, EPW, Climate, Glare, Direct, Sun, Solar, Annual, Exposure, ASE, LEED v4, View, Outdoors, Grasshopper
+LBExampleFiles, EPW, Climate, Glare, Direct, Sun, Solar, Annual, Exposure, ASE, LEED v4, View, Outdoors, HumanCenteredFacades, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Maximizing_View_While_Minimizing_Sun_Exposure/thumbnail.png)
