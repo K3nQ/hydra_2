@@ -8,6 +8,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Estimate_Glare_Potential_Over_a_Year)
 ### Tags 
-LBExampleFiles, EPW, Climate, Glare, Potential, Direct, Sun, Solar, Temporal, Spatial, Grasshopper
+LBExampleFiles, EPW, Climate, Glare, Potential, Direct, Sun, Solar, Temporal, Spatial, HumanCenteredFacades, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Estimate_Glare_Potential_Over_a_Year/thumbnail.png)
