@@ -3,7 +3,7 @@ This example shows how to apply an [OpenStudio Measure](https://nrel.github.io/O
 
 This particular example uses a simple measure (included with the download) that allows you to set the fraction of heat that is radiant for lights and equipment (as opposed to convective).
 
-More OpenStudio measures can be downloaded from the NREL [Building Components Liubrart(BCL)](https://bcl.nrel.gov/).
+More OpenStudio measures can be downloaded from the NREL [Building Components Liubrary (BCL)](https://bcl.nrel.gov/).
 
 For writing your own measures, see the OpenStudio [Measure Writers Guide](https://nrel.github.io/OpenStudio-user-documentation/reference/measure_writing_guide/).
 
