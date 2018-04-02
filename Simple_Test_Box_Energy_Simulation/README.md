@@ -1,6 +1,6 @@
 ### Description 
 This file demonstrates a recommended workflow for creating a simple "shoe box" energy model with Honeybee.
-This is a good model to get started with Honeybee. It includes sliders to change the glazing ratio and some post-processing components to calculate the otuput EUI.  It also includes an adjustable overhang that can be connected to the simulation.
+This is a good model to get started with Honeybee. It includes sliders to change the glazing ratio and some post-processing components to calculate the otuput EUI.
 
 This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
