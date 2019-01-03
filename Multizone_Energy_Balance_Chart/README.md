@@ -6,6 +6,6 @@ This file has been submitted by [chriswmackey](https://github.com/chriswmackey)
 
 [Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Multizone_Energy_Balance_Chart)
 ### Tags 
-HBExampleFiles, Honyebee, EPW, Weather, Climate, Energy, Model, Balance, Chart, Thermodynamics, First Law, Multizone
+HBExampleFiles, Honyebee, EPW, Weather, Climate, Energy, Model, Balance, Chart, Thermodynamics, First Law, Multizone, EnergyFundementals, Grasshopper
 ### Thumbnail 
 ![Screenshot](https://raw.githubusercontent.com/chriswmackey/hydra/master/Multizone_Energy_Balance_Chart/thumbnail.png)
